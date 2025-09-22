@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Gaming",
+    "price": 15000000,
+    "description": "Laptop berperforma tinggi untuk kebutuhan gaming anda"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Flagship",
+    "price": 12000000,
+    "description": "Smartphone dengan kamera canggih dan performa terbaik"
+  },
+  {
+    "id": 3,
+    "name": "Headset Wireless",
+    "price": 1500000,
+    "description": "Headset tanpa kabel dengan kualitas suara premium"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch Sport",
+    "price": 2500000,
+    "description": "Jam tangan pintar untuk gaya hidup aktif dan sehat"
+  },
+  {
+    "id": 5,
+    "name": "Monitor Ultrawide",
+    "price": 5000000,
+    "description": "Monitor dengan layar lebar untuk multitasking maksimal"
+  },
+  {
+    "id": 6,
+    "name": "Keyboard Mechanical",
+    "price": 1000000,
+    "description": "Keyboard dengan switch mekanikal untuk pengalaman mengetik yang nyaman"
+  },
+  {
+    "id": 7,
+    "name": "Mouse Gaming RGB",
+    "price": 800000,
+    "description": "Mouse dengan pencahayaan RGB dan sensitivitas tinggi"
+  },
+  {
+    "id": 8,
+    "name": "Tablet Android",
+    "price": 4500000,
+    "description": "Tablet ringan dan cepat untuk hiburan dan produktivitas"
+  },
+  {
+    "id": 9,
+    "name": "Laptop Ultrabook",
+    "price": 13000000,
+    "description": "Laptop tipis dan ringan untuk mobilitas tinggi"
+  },
+  {
+    "id": 10,
+    "name": "Speaker Bluetooth",
+    "price": 750000,
+    "description": "Speaker portable dengan suara jernih dan bass mantap"
+  },
+  {
+    "id": 11,
+    "name": "Camera Mirrorless",
+    "price": 9500000,
+    "description": "Kamera ringan dengan kualitas gambar profesional"
+  },
+  {
+    "id": 12,
+    "name": "Drone 4K",
+    "price": 11500000,
+    "description": "Drone dengan kamera 4K untuk pengambilan gambar udara yang tajam"
+  },
+  {
+    "id": 13,
+    "name": "Power Bank 20000mAh",
+    "price": 350000,
+    "description": "Power bank kapasitas besar untuk pengisian daya berulang"
+  },
+  {
+    "id": 14,
+    "name": "Webcam HD",
+    "price": 400000,
+    "description": "Webcam berkualitas tinggi untuk meeting online"
+  },
+  {
+    "id": 15,
+    "name": "Router WiFi 6",
+    "price": 1200000,
+    "description": "Router cepat dan stabil dengan teknologi WiFi terbaru"
+  },
+  {
+    "id": 16,
+    "name": "Printer All-in-One",
+    "price": 1700000,
+    "description": "Printer multifungsi untuk cetak, scan, dan fotokopi"
+  },
+  {
+    "id": 17,
+    "name": "SSD Eksternal 1TB",
+    "price": 2000000,
+    "description": "Penyimpanan eksternal cepat dan portabel"
+  },
+  {
+    "id": 18,
+    "name": "Microphone Podcast",
+    "price": 900000,
+    "description": "Mic berkualitas untuk kebutuhan rekaman dan streaming"
+  },
+  {
+    "id": 19,
+    "name": "Kipas Laptop Portable",
+    "price": 250000,
+    "description": "Pendingin laptop praktis untuk menghindari overheat"
+  },
+  {
+    "id": 20,
+    "name": "USB Hub 4 Port",
+    "price": 150000,
+    "description": "Perluas koneksi USB dengan perangkat ini"
+  }
+]
