@@ -1,0 +1,30 @@
+<% layout('layout') %>
+
+<div class="container mt-5">
+  <!-- <h1 class="text-center"><%= title %></h1> -->
+
+<% if (typeof query !== 'undefined' && query) { %>
+  <h3 class="mb-4">Hasil pencarian untuk: "<%= query %>"</h3>
+<% } %>
+
+
+  <div class="row">
+    <% if (products.length === 0) { %>
+      <p class="text-muted">Produk tidak ditemukan.</p>
+    <% } else { %>
+      <% products.forEach(product => { %>
+        <div class="col-md-4 mb-4">
+          <div class="card">
+            <div class="card-body">
+              <h4 class="card-title"><%= product.name %></h4>
+              <p class="card-text"><%= product.description %></p>
+              <p class="card-text">Harga: Rp <%= product.price.toLocaleString() %></p>
+              <a href="/products/<%= product.id %>" class="btn btn-secondary">Detail Produk</a>
+            </div>
+          </div>
+        </div>
+      <% }) %>
+    <% } %>   <!-- 🔥 ini yang tadi hilang -->
+  </div>  
+</div>
+

@@ -1,0 +1,134 @@
+[
+    {
+        "id" : 1,
+        "name" : "Laptop Gaming",
+        "price" : 200000,
+        "description" : "Laptop gaming dengan spesifikasi tinggi untuk pengalaman bermain game yang optimal."
+    },
+  {
+    "id": 2,
+    "name": "Smartphone 5G",
+    "price": 120000,
+    "description": "Smartphone terbaru dengan dukungan jaringan 5G dan kamera canggih."
+  },
+  {
+    "id": 3,
+    "name": "Headphone Wireless",
+    "price": 50000,
+    "description": "Headphone tanpa kabel dengan kualitas suara premium dan baterai tahan lama."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 75000,
+    "description": "Jam tangan pintar dengan fitur kesehatan, olahraga, dan notifikasi langsung."
+  },
+  {
+    "id": 5,
+    "name": "Keyboard Mechanical",
+    "price": 40000,
+    "description": "Keyboard mekanik dengan switch tactile untuk pengalaman mengetik yang lebih nyaman."
+  },
+  {
+    "id": 6,
+    "name": "Monitor 4K",
+    "price": 150000,
+    "description": "Monitor resolusi 4K dengan layar IPS untuk tampilan yang tajam dan akurat."
+  },
+  {
+    "id": 7,
+    "name": "Kursi Gaming",
+    "price": 85000,
+    "description": "Kursi ergonomis yang dirancang khusus untuk kenyamanan saat bermain game atau bekerja lama."
+  },
+  {
+    "id": 8,
+    "name": "Speaker Bluetooth",
+    "price": 35000,
+    "description": "Speaker portabel dengan suara jernih dan dukungan konektivitas Bluetooth."
+  },
+  {
+    "id": 9,
+    "name": "External SSD 1TB",
+    "price": 130000,
+    "description": "Penyimpanan eksternal berkecepatan tinggi dengan kapasitas 1TB."
+  },
+  {
+    "id": 10,
+    "name": "Mouse Gaming RGB",
+    "price": 25000,
+    "description": "Mouse gaming dengan pencahayaan RGB dan sensor presisi tinggi."
+  },
+  {
+    "id": 11,
+    "name": "Printer Inkjet",
+    "price": 60000,
+    "description": "Printer inkjet multifungsi dengan kualitas cetak tinggi dan fitur scan."
+  },
+  {
+    "id": 12,
+    "name": "Tablet Android",
+    "price": 100000,
+    "description": "Tablet dengan layar besar dan baterai awet, cocok untuk belajar maupun hiburan."
+  },
+  {
+    "id": 13,
+    "name": "Powerbank 20000mAh",
+    "price": 30000,
+    "description": "Powerbank berkapasitas besar dengan teknologi fast charging."
+  },
+  {
+    "id": 14,
+    "name": "Webcam HD",
+    "price": 20000,
+    "description": "Webcam dengan resolusi HD, cocok untuk meeting online dan streaming."
+  },
+  {
+    "id": 15,
+    "name": "Router WiFi 6",
+    "price": 70000,
+    "description": "Router modern dengan teknologi WiFi 6 untuk kecepatan internet stabil."
+  },
+  {
+    "id": 16,
+    "name": "Drone Kamera",
+    "price": 250000,
+    "description": "Drone dengan kamera resolusi tinggi untuk fotografi udara."
+  },
+  {
+    "id": 17,
+    "name": "Smart TV 50 Inch",
+    "price": 400000,
+    "description": "Smart TV dengan layar 4K, sistem operasi Android, dan dukungan aplikasi streaming."
+  },
+  {
+    "id": 18,
+    "name": "Microphone USB",
+    "price": 45000,
+    "description": "Mikrofon USB dengan kualitas suara jernih untuk podcast dan recording."
+  },
+  {
+    "id": 19,
+    "name": "VR Headset",
+    "price": 220000,
+    "description": "Headset VR dengan resolusi tinggi untuk pengalaman virtual reality yang imersif."
+  },
+  {
+    "id": 20,
+    "name": "Harddisk Eksternal 2TB",
+    "price": 110000,
+    "description": "Harddisk eksternal dengan kapasitas besar dan konektivitas USB 3.0."
+  },
+  {
+    "id": 21,
+    "name": "Smart Lamp",
+    "price": 15000,
+    "description": "Lampu pintar yang bisa dikontrol melalui smartphone dengan berbagai mode pencahayaan."
+  },
+  {
+    "id": 22,
+    "name": "Action Camera 4K",
+    "price": 175000,
+    "description": "Kamera aksi tahan air dengan kemampuan merekam video 4K."
+  }
+]

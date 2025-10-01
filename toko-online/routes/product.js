@@ -1,20 +1,19 @@
 var express = require("express");
-var router = express.Router();
+var router = express.router();
+var product = require("../data/products.json");
 
-router.get("/:id", function(req,res,next){
-    const productId = parseInt (req.params.id); // Tangkap ID dari URL
-    const product = products.find(p =>p.id === productId);
+router.get("/:id",function(req,res,next) {
+    const productid = parseInt(req,URLSearchParams,id);//tangkap ID dari URl
+    const product = products.find
 
-    if(!product){
-        return res.status(404).send("Produk tidak ditemukan!");
+    if(product){
+        return res.status(404).send('Produk tidak ditemukan');
     }
-
-    res.render('product-detail',
+    res.render('prodct-detail'),
     {
-        title : product.name,
+        title:product.name,
         product : product
     }
-  );
+    
 });
-
-module.exports = router;
+module.exports = router;s
