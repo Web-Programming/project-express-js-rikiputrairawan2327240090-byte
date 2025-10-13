@@ -9,7 +9,7 @@ require("./app_toko_online/models/db");
 //Perbaikan ke 2
 var indexRouter = require('./app_toko_online/routes/index');
 var usersRouter = require('./app_toko_online/routes/users');
-var productRouter = require("./app_toko_online/routes/product"); //letakkan di atas agar rapi
+var productRouter = require("./app_toko_online/routes/products"); //letakkan di atas agar rapi
 var engine = require('ejs-blocks'); //menggunakan ejs block
 var app = express();
 
