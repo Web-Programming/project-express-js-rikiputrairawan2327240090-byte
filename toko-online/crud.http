@@ -1,0 +1,18 @@
+### 🔹 Get Detail Product
+GET http://localhost:3000/api/produk/6717a1e9b12345abc67890de
+Content-Type: application/json
+
+###
+
+### 🔹 Create New Product
+POST http://localhost:3000/api/produk
+Content-Type: application/json
+
+{
+  "name": "Laptop Asus TUF",
+  "price": 12500000,
+  "description": "Laptop gaming 15 inch dengan RTX 4060",
+  "stock": 5
+}
+
+
